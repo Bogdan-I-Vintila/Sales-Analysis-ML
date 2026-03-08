@@ -2,7 +2,7 @@ SALES ANALYSIS ML
 
 Overview
 
-This project analyzes retail sales data using EDA and basic ML models do identify patterns and predict sales performance.
+This project analyzes retail sales data using EDA and basic ML models to identify patterns and predict sales performance.
 
 What I did
 
